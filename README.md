@@ -15,15 +15,15 @@ The internship was completed as a **two-week virtual/remote internship**, with f
 | Field | Details |
 |---|---|
 | **Name** | Keshari Nandan Ray |
-| **Roll Number** | [Add Roll Number] |
-| **Institute** | [Add Institute Name] |
-| **Programme** | [Add Programme / Batch] |
+| **Roll Number** | [25SCSC1003002987] |
+| **Institute** | [IILM UNIVERSITY] |
+| **Programme** | [BTECH CSE] |
 | **Internship Domain** | Prompt Engineering |
 | **Organization** | InAmigos Foundation |
 | **Duration** | Two Weeks |
 | **Mode** | Remote / Virtual |
 | **Internship Date** | 11 August 2026 |
-| **GitHub** | [Add GitHub Profile] |
+| **GitHub** |
 
 ---
 
